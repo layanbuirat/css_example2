@@ -1,0 +1,38 @@
+.ser{
+    background: white;
+    text-align: left;
+}
+
+
+.servece{
+    
+background: white;
+height: 350px;
+padding-left: 10px;
+padding-top: 10px;
+padding-button: 10px;
+padding-right: 10px;
+margin:10px ; 
+text-align: left ;
+border: solid;
+float: left;
+width :  17% ;
+
+}
+img{
+    width: 100% ;
+    padding-top: 10 px;
+    padding-left: 10 px;
+    padding-right: 10 px;
+
+}
+
+a{
+    background-color: rgb(25, 158, 220);
+    color: white;
+    padding: 15px  ; 
+}
+
+.clearfix{
+    clear: left;
+}
